@@ -1,2 +1,1 @@
-# shaders
-# redesigned-disco
+# shaders about page
